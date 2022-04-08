@@ -11,7 +11,7 @@
     "start": "node dist/server.js"
   },
   "dependencies": {
-    "@sentry/node": "6.13.3",
+    "@sentry/node": "6.19.6",
     "bcryptjs": "^2.4.3",
     "bee-queue": "^1.4.0",
     "cors": "^2.8.5",
